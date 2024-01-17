@@ -10,20 +10,16 @@ The project work is divided on following phases:
 2. Feature extraction and unimodal fusion for classification
 3. Feature extraction and feature-level fusion for multimodal classification
 4. Decision-level fusion for multimodal classification
-5. Bonus task: Multimodal biometric identification of persons
+
 
 The results are validated using confusion matrices and F1 scores. F1 macro score is given as
 <br>
 <br>
-$
-\begin{equation}
-F1_{macro} = \frac{1}{N} \sum_i^N F1_i,
-\end{equation}
-$
+$$F1_{\text{macro}} = \frac{1}{N} \sum_{i=1}^{N} F1_i$$
 <br>
 <br>
 where $F1_i = 2  \frac{precision_i * recall_i}{precision_i + recall_i}$, and $N$ is the number of classes.
 <br>
 
 
-# This is a Final project for the Multimodal Data Fusion course at the University of Oulu for 2023
+#### This was a Final project for the Multimodal Data Fusion course at the University of Oulu for Dec. 2023
