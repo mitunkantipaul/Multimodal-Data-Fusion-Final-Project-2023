@@ -1,4 +1,5 @@
 # Multimodal Data Fusion: Classification of Exercise from Accelerometer and Depth Sensor Data
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/username/repository/blob/main/notebook.ipynb](https://colab.research.google.com/github/mitunkantipaul/Multimodal-Data-Fusion-Final-Project-2023/blob/main/Final_of_project_work_MEx_classification.ipynb))
 
 ## Description
 
